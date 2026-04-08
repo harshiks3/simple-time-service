@@ -94,6 +94,14 @@ Initialize Terraform:
 
 terraform init
 
+Format/fix indentation code
+
+terraform fmt
+
+Validate code
+
+terraform validate
+
 Review the execution plan:
 
 terraform plan
