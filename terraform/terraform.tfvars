@@ -1,0 +1,1 @@
+app_image = "harshiks3/simple-time-service"
