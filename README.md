@@ -150,16 +150,7 @@ terraform destroy
 
 ## 10. Notes
 
-* Ensure Docker image is publicly accessible before deployment
 * Deployment may take several minutes due to infrastructure provisioning
 * Health checks are configured to ensure application availability
 
----
 
-## 11. Future Enhancements
-
-* HTTPS support using AWS ACM
-* Auto Scaling for ECS service
-* Centralized logging using CloudWatch
-* Remote Terraform backend (S3 with state locking via DynamoDB)
-* CI/CD pipeline integration (e.g., GitHub Actions)
